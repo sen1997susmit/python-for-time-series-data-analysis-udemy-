@@ -50,6 +50,12 @@
 6. [Exrecises](https://nbviewer.jupyter.org/github/jeswingeorge/Learning-Time-Series-Python/blob/master/05-Time-Series-Analysis-with-Statsmodels/04-Statsmodels-Time-Series-Exercises.ipynb)
 
 ## 06. General forcasting models
+## Certificate
+
+![Certificate]( https://github.com/sen1997susmit/python-for-time-series-data-analysis-udemy-/blob/main/time%20series.jpg)
+
+ > [Verified Certificate]( https://github.com/sen1997susmit/python-for-time-series-data-analysis-udemy-/blob/main/time%20series.pdf)
+
 
 
 
