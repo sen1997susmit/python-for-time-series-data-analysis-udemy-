@@ -1,4 +1,3 @@
-# python-for-time-series-data-analysis-udemy
 
 ## 00. Intro to Time series
 
